@@ -1,3 +1,10 @@
+
+## 🇯🇵 Japanese Version / 日本語版
+
+日本語版はこちら：**[NeverCrisisJP](https://github.com/ShadowMPo/NeverCrisisJP)**
+
+
+
 # Never Crisis — Self-hosted game server for FF7 EVER CRISIS. Keep Midgar online after official EOS.
 
 - **Why:** the service is shutting down; this keeps the single-player game — the stories above all — playable on your own machine.
